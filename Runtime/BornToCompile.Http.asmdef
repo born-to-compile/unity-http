@@ -1,7 +1,9 @@
 {
     "name": "BornToCompile.Http",
     "rootNamespace": "BornToCompile.Http",
-    "references": [],
+    "references": [
+        "GUID:0aab2c9dc52384eefb9fc9e4646817b5"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

@@ -1,7 +1,7 @@
 {
   "name": "com.borntocompile.unity-http",
   "displayName": "B2c Unity Http",
-  "version": "2.2.1",
+  "version": "1.0.0",
   "description": "An improved API for making http requests in unity",
   "repository": {
     "type": "git",
